@@ -3,5 +3,15 @@
  */
 class MainClass {
     Integer prvoPolje;
-    Integer drugoPolje;
+
+
+
+    String drugoPolje;
+
+    void metodaJedan (){
+        Integer bla;
+        bla = 0;
+        bla = bla+1;
+
+    }
 }
