@@ -3,10 +3,8 @@
  */
 class MainClass {
     Integer prvoPolje;
-
-
-
     String drugoPolje;
+    Integer trecePolje;
 
     void metodaJedan (){
         Integer bla;
